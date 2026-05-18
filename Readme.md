@@ -50,8 +50,8 @@ I am a Senior Full Stack Developer with experience building scalable, user-focus
 ## GitHub Stats
 
 <p align="center">
-  <img width="340" src="https://streak-stats.demolab.com/?user=ritanayak&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak Stats" />
-  <img width="340" src="https://github-readme-stats.vercel.app/api?username=ritanayak&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
+  <img width="340" src="https://github-readme-streak-stats.herokuapp.com?user=ritanayak&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak Stats" />
+  <img width="340" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ritanayak&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
