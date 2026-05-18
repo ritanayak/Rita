@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&center=true&size=32&vCenter=true&height=80&pause=100&duration=4000&lines=👋🏻+Hi,+I'm+Rita+Nayak;Senior+Full+Stack+Developer;MERN+Stack+Developer;Full+Stack+Developer" alt="title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&center=true&size=32&vCenter=true&height=80&pause=100&duration=4000&lines=👋🏻+Hi,+I'm+Rita+Nayak;Full+Stack+Developer;MERN+Stack+Developer;Front+End+Developer;Software+Engineer;React+Developer" alt="title" />
 </p>
 
 <div align="center">
@@ -50,10 +50,10 @@ I am a Senior Full Stack Developer with experience building scalable, user-focus
 ## GitHub Stats
 
 <p align="center">
-  <img width="340" src="https://streak-stats.demolab.com/?user=Rita Nayak&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak Stats" />
-  <img width="340" src="https://github-readme-stats.vercel.app/api?username=Rita Nayak&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
+  <img width="340" src="https://streak-stats.demolab.com/?user=ritanayak&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak Stats" />
+  <img width="340" src="https://github-readme-stats.vercel.app/api?username=ritanayak&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rita Nayak&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritanayak&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </p>
